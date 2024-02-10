@@ -1,2 +1,11 @@
 # cfm_cexe
-🏴‍☠️ exechack.cc (25.01.2024) but for free.
+
+## Instructions.
+- Download;
+- Transfer all required files `[cexe.lua, menu.lua]` to `garrysmod/lua/menu`;
+- Launch your game, and execute command in console: `cexe`;
+- Inject `exechack.dll` *(any login/password can be putted in)*
+- fin.
+
+## Credits.
+- https://t.me/shockpast - guy that done all that stuff
